@@ -25,6 +25,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
 </p>
 
+<h3 align="center">✒ Study ✒</h3>
+ <a href="https://www.notion.so/2db434c150874570a87222e2e59ac2a5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<p align="center">
+</p>	
+<!--
 <h3 align="center">✒ Notion ✒</h3>
 <p align="center">
 	https://www.notion.so/2db434c150874570a87222e2e59ac2a5?pvs=4
@@ -33,8 +38,8 @@ Here are some ideas to get you started:
 <p align="center">
 	https://velog.io/@minjung00
 </p>
-
-
+'''
+--->
 
 </div>
 <!---

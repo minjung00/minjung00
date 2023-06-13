@@ -24,9 +24,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">✒ Blog ✒</h3>
+<h3 align="center">✒ Notion ✒</h3>
 <p align="center">
 	https://www.notion.so/2db434c150874570a87222e2e59ac2a5?pvs=4
+</p>
+<h3 align="center">✒ Velog ✒</h3>
+<p align="center">
+	https://velog.io/@minjung00
 </p>
 
 

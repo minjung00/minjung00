@@ -13,7 +13,7 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/2db434c150874570a87222e2e59ac2a5)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@minjung00)	
 	
-	
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minjung00)](https://velog.io/@minjung00)	
 
 </div>
 

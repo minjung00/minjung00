@@ -20,7 +20,6 @@
 	
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minjung00)](https://velog.io/@minjung00)	
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjung00&layout=compact&theme=dark)
 </div>
 
 

@@ -20,13 +20,14 @@
 	
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minjung00)](https://velog.io/@minjung00)	
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjung00&layout=compact&theme=dark)
 </div>
 
 
 
 
 <!--
-**
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

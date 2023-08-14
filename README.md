@@ -7,8 +7,10 @@
 
 ![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![SQL](http://img.shields.io/badge/-SQL-00599c?style=flat-square&logo=SQL%2B%2B&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](http://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## 🍀 About me 🍀
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/2db434c150874570a87222e2e59ac2a5)
